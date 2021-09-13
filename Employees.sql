@@ -1,4 +1,4 @@
-uset pruebas;
+use pruebas;
 create table Employees
     (
     id int primary key auto_increment,
